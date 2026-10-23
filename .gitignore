@@ -1,0 +1,10 @@
+
+# PlatformIO build files
+.pio/
+
+# Local editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
